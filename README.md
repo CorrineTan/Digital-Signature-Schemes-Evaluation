@@ -45,4 +45,6 @@ Datasets are acquired from the following sources:
 ### Plots:
 ![](compare.png)
 
+![](implementation.png)
+
 ![](result.png)
