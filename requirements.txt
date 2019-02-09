@@ -1,0 +1,6 @@
+pynacl
+cryptography
+fastecdsa
+ecdsa
+ed25519
+libnacl
